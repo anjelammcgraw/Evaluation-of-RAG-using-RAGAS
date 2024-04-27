@@ -1,6 +1,6 @@
 # 🤖 Evaluating Advanced Retrieval Methods in Langchain w RAGAS
 
-In this repo, we'll be evaluating advanced retrieval methods in Langchain with RAGAS. This project was done during week 4 of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
+In this repo, we'll be evaluating advanced retrieval methods in Langchain with RAGAS. 
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1mfVwkG-iSBaIs5A9vX_K-wpRRoPjODYq?usp=sharing)
 
